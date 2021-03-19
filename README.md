@@ -1,4 +1,4 @@
-<h2>**Open Source Supreme Monitor Based on GoLang**</h2>
+<h2>Open Source Supreme Monitor Based on GoLang</h2>
 
 _A module built for personal use but ended up being worthy to have it open sourced._
 
