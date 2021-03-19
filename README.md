@@ -1,11 +1,12 @@
-**Open Source Supreme Monitor Based on GoLang**
+<h2>**Open Source Supreme Monitor Based on GoLang**</h2>
 
 _A module built for personal use but ended up being worthy to have it open sourced._
 
-The module contains the following
-- Ability to **Add, Remove, View Keywords** through HTTP requests to the server of your choice
-- Ability to save item status in any database supported by GORM
-- Efficient use of resources
+
+<h3>**The module contains the following**</h3>
+<h4>- Ability to **Add, Remove, View Keywords** through HTTP requests to the server of your choice</h4>
+<h4>- Ability to save item status in any database supported by GORM</h4>
+<h4>- Efficient use of resources</h4>
 
 The project is built on GoLang as I felt it was fit for it. Some parts that are really worth noting:
 
