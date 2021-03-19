@@ -3,8 +3,8 @@
 _A module built for personal use but ended up being worthy to have it open sourced._
 
 
-<h3>**The module contains the following**</h3>
-<h4>- Ability to **Add, Remove, View Keywords** through HTTP requests to the server of your choice</h4>
+<h3>The module contains the following</h3>
+<h4>- Ability to Add, Remove, View Keywords through HTTP requests to the server of your choice</h4>
 <h4>- Ability to save item status in any database supported by GORM</h4>
 <h4>- Efficient use of resources</h4>
 
